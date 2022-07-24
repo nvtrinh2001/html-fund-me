@@ -1,0 +1,9 @@
+node_modules
+img
+artifacts
+cache
+coverage
+.env
+.*
+coverage.json
+ethers-5.6.esm.min.js
